@@ -16,6 +16,15 @@ It combines **Groq LLMs** (Llama 3 family), **LangChain** orchestration, **FAISS
 - Includes **conversation history** in-session and a **Clear Chat** button.
 
 ---
+## App UI
+
+<img width="1459" height="875" alt="Screenshot 2025-11-16 at 21 16 56" src="https://github.com/user-attachments/assets/f9eabd1e-2bb4-4c06-943c-a51507d94a42" />
+
+
+<img width="1464" height="878" alt="Screenshot 2025-11-16 at 21 19 21" src="https://github.com/user-attachments/assets/93587b07-d4f7-4390-b990-ee41bedaea15" />
+
+
+---
 
 ## 🧰 Tech Stack
 
